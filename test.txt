@@ -5,3 +5,5 @@ khoobi?
 che khabar?
 
 taghhiran
+
+new file info.txt
